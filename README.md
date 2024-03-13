@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Resasa</h1>
-<img align="center" alt="web-developer" width="100%" height="auto" src="https://giffiles.alphacoders.com/219/219846.gif">
-<h3 align="justify">Learning the programming languages ​​HTML, CSS, Javascript, and C+.</h3>
+<!-- <img align="center" alt="web-developer" width="100%" height="auto" src="https://giffiles.alphacoders.com/219/219846.gif"> -->
+<h3 align="justify">Learning the programming languages ​​HTML, CSS, Javascript, python and C+.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=resasa1&label=Profile%20views&color=0e75b6&style=flat" alt="resasa1" /> </p>
 
