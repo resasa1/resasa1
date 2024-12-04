@@ -4,5 +4,5 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=resasa1&label=Profile%20views&color=0e75b6&style=flat" alt="resasa1" /> </p>
 <img align="center" width="100%" height="auto" src="https://media1.tenor.com/m/dyj0W-2Ztf8AAAAd/himmel-the-hero-himmel-frieren.gif" alt="himmel" />
-<p><i align="center" margin-left="24px">Maybe it's because i want people to remember me</i></p>
+<p><i align="center">" Maybe it's because i want people to remember me "</i></p>
 
