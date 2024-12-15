@@ -6,4 +6,4 @@
 <img align="center" width="100%" height="auto" src="https://media1.tenor.com/m/dyj0W-2Ztf8AAAAd/himmel-the-hero-himmel-frieren.gif" alt="himmel" />
 <p align="center"><i align="center">" Maybe it's because i want people to remember me "</i></p>
 <br>
-Connect with me at :
+<h4><b>Connect with me at :</b></h4>
