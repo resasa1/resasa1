@@ -7,7 +7,6 @@ I am a relentless explorer. I strive to continue to grow in all things, not just
 Outside of the tech world, I’m deeply immersed in Gaming, Music, and the world of Cinema (especially Anime). I am the type of person who values a profound plot and storytelling over flashy graphics—if a story has soul and depth, I'm hooked. You could say I’m a bit of an expert in this field, so feel free to challenge me or ask for recommendations! HAHAHA. Whether it's discussing complex narrative arcs or discovering new musical vibes, I'm always up for a good conversation.
 
 # 🛠️ Tech Stack & Tools
--
 #### Backend & Databases
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)</a>
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
