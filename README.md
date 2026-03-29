@@ -25,15 +25,12 @@ Outside of the tech world, I’m deeply immersed in Gaming, Music, and the world
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
--
-
-#### 🤝 Connect with Me
+# 🤝 Connect with Me
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](LINK_PORTOFOLIO_KAMU)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](LINK_LINKEDIN_KAMU)
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](LINK_INSTAGRAM_KAMU)
 [![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=orange)](LINK_GITLAB_KAMU)
 
--
 ⭐️ *Feel free to explore my repositories or reach out for collaboration!*
 <!-- <script> let date = date.now(), if date = 810/2025 change unage
 </script> -->
