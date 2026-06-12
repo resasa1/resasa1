@@ -1,5 +1,7 @@
 # Hi, I'm <a href="https://www.github.com/resasa1"> Resasa 👋</a>
 
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExenBwMmcwdGI4MHRiOHdpOWowcDQ0NW8zcmpzYW5zenZwcTRzd3J6NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6sevo6oEBoCX7CxOeA/giphy.gif" alt="confession my sins" style="width="50" height="auto"/>
+
 A passionate **Backend Developer** and **Informatics Graduate** from Indonesia. I specialize in building scalable server-side applications, designing efficient database architectures, and exploring the world of microservices.
 
 I am a relentless explorer. I strive to continue to grow in all things, not just tech. I'm passionate about empathy and connection. In this life, nothing matters when we're all gone. But there are three things that we can control: the joy we experience, the memories we create, and the connections we make with other people. So I'm just trying to be a good person who loves and makes others feel loved. I feel fulfilled when I'm providing value, and I'm happiest when making others happy.
