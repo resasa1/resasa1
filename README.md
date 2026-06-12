@@ -1,12 +1,10 @@
 # Hi, I'm <a href="https://www.github.com/resasa1"> Resasa 👋</a>
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExenBwMmcwdGI4MHRiOHdpOWowcDQ0NW8zcmpzYW5zenZwcTRzd3J6NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6sevo6oEBoCX7CxOeA/giphy.gif" alt="confession my sins" width="450" height="auto" align="center" />
+<div align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExenBwMmcwdGI4MHRiOHdpOWowcDQ0NW8zcmpzYW5zenZwcTRzd3J6NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6sevo6oEBoCX7CxOeA/giphy.gif" alt="confession my sins" width="450" height="auto"/>
+</div>
 
-A passionate **Backend Developer** and **Informatics Graduate** from Indonesia. I specialize in building scalable server-side applications, designing efficient database architectures, and exploring the world of microservices.
-
-I am a relentless explorer. I strive to continue to grow in all things, not just tech. I'm passionate about empathy and connection. In this life, nothing matters when we're all gone. But there are three things that we can control: the joy we experience, the memories we create, and the connections we make with other people. So I'm just trying to be a good person who loves and makes others feel loved. I feel fulfilled when I'm providing value, and I'm happiest when making others happy.
-
-Outside of the tech world, I’m deeply immersed in Gaming, Music, and the world of Cinema (especially Anime). I am the type of person who values a profound plot and storytelling over flashy graphics—if a story has soul and depth, I'm hooked. You could say I’m a bit of an expert in this field, so feel free to challenge me or ask for recommendations! HAHAHA. Whether it's discussing complex narrative arcs or discovering new musical vibes, I'm always up for a good conversation.
+<p>having fun</p>
 
 # 🛠️ Tech Stack & Tools
 #### Framework and Libraries
