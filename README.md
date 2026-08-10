@@ -5,3 +5,26 @@
   <p>🌟 Hello fellas, Welcome to my github side 🌟</p>
 </div>
 
+<!-- <div align="center">
+<table>
+  <thead>
+    <tr>
+      <th>| I do | I do | I do | I do | I do |</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Javascript</td>
+    </tr>
+    <tr>
+      <td>Typescript</td>
+    </tr>
+    <tr>
+      <td>C++</td>
+    </tr>
+    <tr>
+      <td>Golang</td>
+    </tr>
+  </tbody>
+</table>
+</div> -->
