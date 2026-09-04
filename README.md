@@ -6,18 +6,21 @@
   <img src="./assets/hakuji.gif" alt="confession my sins" width="450" height="auto"/>
   <p>🌟 Hello fellas, Welcome to my github ^_^ 🌟</p>
 </div>
-<!-- <div align="center">
- <table>
+<div align="center">
+ <table border="0">
   <tr>
     <td>
-      <img src="https://gif" alt="gif" />
+      <img src="./assets/tickle.gif" alt="gif" width="45" height="auto" />
     </td>
     <td>
-      <img src="https://gif" alt="gif" />
+      <img src="./assets/scuba.gif" alt="gif" width="45" height="auto" />
+    </td>
+    <td>
+      <img src="./assets/eat.gif" alt="gif" width="45" height="auto" />
     </td>
   </tr>
 </table>
-</div> -->
+</div>
 
 <!-- <div align="center">
 <table>
