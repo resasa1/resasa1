@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="./assets/hakuji.gif" alt="confession my sins" width="450" height="auto"/>
+  <!-- <img src="./assets/hakuji.gif" alt="confession my sins" width="450" height="auto"/> -->
   <p>🌟 Hello fellas, Welcome to my github ^_^ 🌟</p>
 </div>
 <div align="center">
