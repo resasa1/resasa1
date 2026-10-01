@@ -4,7 +4,7 @@
 
 <div align="center">
   <!-- <img src="./assets/hakuji.gif" alt="so warm" width="450" height="auto"/> -->
-  <p>🌟 Hello fellas, Welcome to my github ^_^ 🌟</p>
+  <p>🌟 Welcome to my github ^_^ 🌟</p>
 </div>
 <div align="center">
  <table border="0">
